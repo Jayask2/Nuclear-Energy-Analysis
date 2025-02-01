@@ -1,4 +1,4 @@
-#Description of our Analysis:
+-Description of our Analysis:
 
 Nuclear Energy Investments - Trends, Strategic Analysis, and Opportunities" by Nucleus Advisors
 1. Introduction
@@ -72,7 +72,7 @@ Nucleus Advisors provides consulting services to optimize investments in nuclear
 The presentation concludes with a thank you note and an invitation for further discussion.
 
 
-#Folders Info:
+-Folders Info:
 
 1. The 'data' folder contains csv files where we get the info tha we need.
 
